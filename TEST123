@@ -1493,11 +1493,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 tvg-name="PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="THAILAND",PPTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-
 #EXTINF:-1 tvg-name="AmarinTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="THAILAND",AmarinTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
@@ -1537,11 +1532,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 https://live.topnews.co.th/hls/mobile_v1.m3u8
 #EXTINF:-1 tvg-name="NEW1" tvg-logo="https://files-world.thaipbs.or.th/thaipbsworld_logo_a6d261af22.png" group-title="THAILAND",NEW1
 https://server1.streamssl.com/stream/news1_mid.m3u8
-
-#EXTINF:-1 tvg-name="NBT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="THAILAND",NBT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 
 #EXTINF:-1 tvg-id="DLTV1.th@SD" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="THAILAND",DLTV 1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2409,6 +2399,10 @@ https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/9xm.png" group-title="Music",9XM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/9xm.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="m2o" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/imusic.png" group-title="Music",India Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdn-3.pishow.tv/live/441/master.m3u8
 
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpop.png" group-title="Music",NEW K-POP (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
